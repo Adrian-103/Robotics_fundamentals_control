@@ -1,0 +1,4 @@
+[console_scripts]
+MPC_ControllerExec = position_control_turtlebot.pre_mpc_control:main
+TurtleBotControllerExec = position_control_turtlebot.control_node:main
+

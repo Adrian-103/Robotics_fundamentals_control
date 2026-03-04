@@ -1,0 +1,3 @@
+[console_scripts]
+TurtleBotControllerExec = position_control_turtlebot.control_node:main
+

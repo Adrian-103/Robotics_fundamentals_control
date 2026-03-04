@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/position_control_turtlebot/position_control_turtlebot.egg-info
+writing ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/PKG-INFO
+writing dependency_links to ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/dependency_links.txt
+writing entry points to ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/entry_points.txt
+writing requirements to ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/requires.txt
+writing top-level names to ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/top_level.txt
+writing manifest file '../../build/position_control_turtlebot/position_control_turtlebot.egg-info/SOURCES.txt'
+reading manifest file '../../build/position_control_turtlebot/position_control_turtlebot.egg-info/SOURCES.txt'
+writing manifest file '../../build/position_control_turtlebot/position_control_turtlebot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/adrian/control_ws/build/position_control_turtlebot/build
+creating /home/adrian/control_ws/build/position_control_turtlebot/build/lib
+creating /home/adrian/control_ws/build/position_control_turtlebot/build/lib/position_control_turtlebot
+copying position_control_turtlebot/control_node.py -> /home/adrian/control_ws/build/position_control_turtlebot/build/lib/position_control_turtlebot
+copying position_control_turtlebot/__init__.py -> /home/adrian/control_ws/build/position_control_turtlebot/build/lib/position_control_turtlebot
+running install
+running install_lib
+creating /home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot
+copying /home/adrian/control_ws/build/position_control_turtlebot/build/lib/position_control_turtlebot/control_node.py -> /home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot
+copying /home/adrian/control_ws/build/position_control_turtlebot/build/lib/position_control_turtlebot/__init__.py -> /home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot
+byte-compiling /home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot/control_node.py to control_node.cpython-310.pyc
+byte-compiling /home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/adrian/control_ws/install/position_control_turtlebot/share/ament_index
+creating /home/adrian/control_ws/install/position_control_turtlebot/share/ament_index/resource_index
+creating /home/adrian/control_ws/install/position_control_turtlebot/share/ament_index/resource_index/packages
+copying resource/position_control_turtlebot -> /home/adrian/control_ws/install/position_control_turtlebot/share/ament_index/resource_index/packages
+copying package.xml -> /home/adrian/control_ws/install/position_control_turtlebot/share/position_control_turtlebot
+creating /home/adrian/control_ws/install/position_control_turtlebot/share/position_control_turtlebot/launch
+copying launch/launch.py -> /home/adrian/control_ws/install/position_control_turtlebot/share/position_control_turtlebot/launch
+creating /home/adrian/control_ws/install/position_control_turtlebot/share/position_control_turtlebot/config
+copying config/params.yaml -> /home/adrian/control_ws/install/position_control_turtlebot/share/position_control_turtlebot/config
+running install_egg_info
+Copying ../../build/position_control_turtlebot/position_control_turtlebot.egg-info to /home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing TurtleBotControllerExec script to /home/adrian/control_ws/install/position_control_turtlebot/lib/position_control_turtlebot
+writing list of installed files to '/home/adrian/control_ws/build/position_control_turtlebot/install.log'

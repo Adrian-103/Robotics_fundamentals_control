@@ -1,0 +1,16 @@
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot/control_node.py
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot/__init__.py
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot/__pycache__/control_node.cpython-310.pyc
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot/__pycache__/__init__.cpython-310.pyc
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/share/ament_index/resource_index/packages/position_control_turtlebot
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/share/position_control_turtlebot/package.xml
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/share/position_control_turtlebot/launch/launch.py
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/share/position_control_turtlebot/config/params.yaml
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot-0.0.0-py3.10.egg-info/requires.txt
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot-0.0.0-py3.10.egg-info/PKG-INFO
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot-0.0.0-py3.10.egg-info/SOURCES.txt
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot-0.0.0-py3.10.egg-info/dependency_links.txt
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot-0.0.0-py3.10.egg-info/zip-safe
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot-0.0.0-py3.10.egg-info/top_level.txt
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot-0.0.0-py3.10.egg-info/entry_points.txt
+/home/adrian/control_ws/src/position_control_turtlebot/install/position_control_turtlebot/lib/position_control_turtlebot/TurtleBotControllerExec

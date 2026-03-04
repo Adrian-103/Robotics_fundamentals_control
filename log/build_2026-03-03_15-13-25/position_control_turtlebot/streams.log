@@ -1,0 +1,26 @@
+[0.411s] Invoking command in '/home/adrian/control_ws/src/position_control_turtlebot': PYTHONPATH=/home/adrian/control_ws/build/position_control_turtlebot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/position_control_turtlebot build --build-base /home/adrian/control_ws/build/position_control_turtlebot/build install --record /home/adrian/control_ws/build/position_control_turtlebot/install.log --single-version-externally-managed install_data
+[0.562s] running egg_info
+[0.563s] writing ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/PKG-INFO
+[0.563s] writing dependency_links to ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/dependency_links.txt
+[0.563s] writing entry points to ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/entry_points.txt
+[0.563s] writing requirements to ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/requires.txt
+[0.563s] writing top-level names to ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/top_level.txt
+[0.564s] reading manifest file '../../build/position_control_turtlebot/position_control_turtlebot.egg-info/SOURCES.txt'
+[0.565s] writing manifest file '../../build/position_control_turtlebot/position_control_turtlebot.egg-info/SOURCES.txt'
+[0.565s] running build
+[0.565s] running build_py
+[0.565s] copying position_control_turtlebot/pre_mpc_control.py -> /home/adrian/control_ws/build/position_control_turtlebot/build/lib/position_control_turtlebot
+[0.565s] running install
+[0.565s] running install_lib
+[0.566s] copying /home/adrian/control_ws/build/position_control_turtlebot/build/lib/position_control_turtlebot/pre_mpc_control.py -> /home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot
+[0.566s] byte-compiling /home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot/pre_mpc_control.py to pre_mpc_control.cpython-310.pyc
+[0.567s] running install_data
+[0.567s] copying launch/mpc_launch.py -> /home/adrian/control_ws/install/position_control_turtlebot/share/position_control_turtlebot/launch
+[0.567s] running install_egg_info
+[0.569s] removing '/home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.569s] Copying ../../build/position_control_turtlebot/position_control_turtlebot.egg-info to /home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot-0.0.0-py3.10.egg-info
+[0.569s] running install_scripts
+[0.583s] Installing MPC_ControllerExec script to /home/adrian/control_ws/install/position_control_turtlebot/lib/position_control_turtlebot
+[0.583s] Installing TurtleBotControllerExec script to /home/adrian/control_ws/install/position_control_turtlebot/lib/position_control_turtlebot
+[0.584s] writing list of installed files to '/home/adrian/control_ws/build/position_control_turtlebot/install.log'
+[0.602s] Invoked command in '/home/adrian/control_ws/src/position_control_turtlebot' returned '0': PYTHONPATH=/home/adrian/control_ws/build/position_control_turtlebot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/position_control_turtlebot build --build-base /home/adrian/control_ws/build/position_control_turtlebot/build install --record /home/adrian/control_ws/build/position_control_turtlebot/install.log --single-version-externally-managed install_data

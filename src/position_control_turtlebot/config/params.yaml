@@ -1,0 +1,5 @@
+turtlebot_controller_node:
+  ros__parameters:
+    Q_1_1: 1.0
+    Q_2_2: 1.0
+    R_1_1: 5.0

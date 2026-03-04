@@ -1,0 +1,25 @@
+[0.420s] Invoking command in '/home/adrian/control_ws/src/position_control_turtlebot': PYTHONPATH=/home/adrian/control_ws/build/position_control_turtlebot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/position_control_turtlebot build --build-base /home/adrian/control_ws/build/position_control_turtlebot/build install --record /home/adrian/control_ws/build/position_control_turtlebot/install.log --single-version-externally-managed install_data
+[0.573s] running egg_info
+[0.574s] writing ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/PKG-INFO
+[0.574s] writing dependency_links to ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/dependency_links.txt
+[0.574s] writing entry points to ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/entry_points.txt
+[0.574s] writing requirements to ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/requires.txt
+[0.574s] writing top-level names to ../../build/position_control_turtlebot/position_control_turtlebot.egg-info/top_level.txt
+[0.575s] reading manifest file '../../build/position_control_turtlebot/position_control_turtlebot.egg-info/SOURCES.txt'
+[0.576s] writing manifest file '../../build/position_control_turtlebot/position_control_turtlebot.egg-info/SOURCES.txt'
+[0.576s] running build
+[0.576s] running build_py
+[0.576s] copying position_control_turtlebot/pre_mpc_control.py -> /home/adrian/control_ws/build/position_control_turtlebot/build/lib/position_control_turtlebot
+[0.576s] running install
+[0.576s] running install_lib
+[0.577s] copying /home/adrian/control_ws/build/position_control_turtlebot/build/lib/position_control_turtlebot/pre_mpc_control.py -> /home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot
+[0.577s] byte-compiling /home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot/pre_mpc_control.py to pre_mpc_control.cpython-310.pyc
+[0.578s] running install_data
+[0.578s] running install_egg_info
+[0.579s] removing '/home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.579s] Copying ../../build/position_control_turtlebot/position_control_turtlebot.egg-info to /home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages/position_control_turtlebot-0.0.0-py3.10.egg-info
+[0.580s] running install_scripts
+[0.595s] Installing MPC_ControllerExec script to /home/adrian/control_ws/install/position_control_turtlebot/lib/position_control_turtlebot
+[0.595s] Installing TurtleBotControllerExec script to /home/adrian/control_ws/install/position_control_turtlebot/lib/position_control_turtlebot
+[0.596s] writing list of installed files to '/home/adrian/control_ws/build/position_control_turtlebot/install.log'
+[0.614s] Invoked command in '/home/adrian/control_ws/src/position_control_turtlebot' returned '0': PYTHONPATH=/home/adrian/control_ws/build/position_control_turtlebot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adrian/control_ws/install/position_control_turtlebot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/position_control_turtlebot build --build-base /home/adrian/control_ws/build/position_control_turtlebot/build install --record /home/adrian/control_ws/build/position_control_turtlebot/install.log --single-version-externally-managed install_data
